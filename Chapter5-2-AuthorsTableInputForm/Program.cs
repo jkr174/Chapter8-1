@@ -16,7 +16,7 @@ namespace Chapter5_2_AuthorsTableInputForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPublishers());
+            Application.Run(new frmTitles());
         }
     }
 }

@@ -45,14 +45,12 @@ namespace Chapter5_2_AuthorsTableInputForm
             
             try
             {
-                
+                hlpPublishers.HelpNamespace = Application.StartupPath + "\\Publishers.chm";
 
                 if (dlgOpen.ShowDialog() == DialogResult.OK) 
                 {
                     try
                     {
-                        hlpPublishers.HelpNamespace = Application.StartupPath + "\\Publishers.chm";
-                        
                         booksConnection = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;" +
                             "AttachDbFilename=" + dlgOpen.FileName + "; " +
                             "Integrated Security=True;" +

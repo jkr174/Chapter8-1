@@ -34,15 +34,3 @@ F:\GitHub\MVC\Chapter5\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-Aut
 F:\GitHub\MVC\Chapter5\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.csproj.CoreCompileInputs.cache
 F:\GitHub\MVC\Chapter5\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.exe
 F:\GitHub\MVC\Chapter5\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.pdb
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\bin\Debug\Chapter5-2-AuthorsTableInputForm.exe.config
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\bin\Debug\Chapter5-2-AuthorsTableInputForm.exe
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\bin\Debug\Chapter5-2-AuthorsTableInputForm.pdb
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.csprojAssemblyReference.cache
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5_2_AuthorsTableInputForm.frmAuthors.resources
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5_2_AuthorsTableInputForm.frmPublishers.resources
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5_2_AuthorsTableInputForm.frmTitles.resources
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5_2_AuthorsTableInputForm.Properties.Resources.resources
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.csproj.GenerateResource.cache
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.csproj.CoreCompileInputs.cache
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.exe
-C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter5-2-AuthorsTableInputForm\obj\Debug\Chapter5-2-AuthorsTableInputForm.pdb
