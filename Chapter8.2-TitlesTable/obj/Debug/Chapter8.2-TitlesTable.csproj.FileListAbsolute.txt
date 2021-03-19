@@ -1,0 +1,10 @@
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\bin\Debug\Chapter8.2-TitlesTable.exe.config
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\bin\Debug\Chapter8.2-TitlesTable.exe
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\bin\Debug\Chapter8.2-TitlesTable.pdb
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8.2-TitlesTable.csprojAssemblyReference.cache
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8._2_TitlesTable.frmTitles.resources
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8._2_TitlesTable.Properties.Resources.resources
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8.2-TitlesTable.csproj.GenerateResource.cache
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8.2-TitlesTable.csproj.CoreCompileInputs.cache
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8.2-TitlesTable.exe
+C:\Users\jromo021627\Documents\GitHub\Chapter8-1\Chapter8.2-TitlesTable\obj\Debug\Chapter8.2-TitlesTable.pdb
